@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "font_color": "#0052FF",
+    "scath": "Birthday Parties",
+    "image": "https://partymaker.ancorathemes.com/wp-content/uploads/2017/10/service-1-1170x658.jpg",
+    "brand_name": "Health",
+    "title": "Catering & Decor",
+    "paragrap": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa. ",
+    "price": "$150",
+    "detel": "4 Hours Up to 10 Persons Decoration Catering"
+  },
+  {
+    "id": "2",
+    "font_color": "#FF444A",
+    "scath": "Family Celebrations",
+    "image": "https://partymaker.ancorathemes.com/wp-content/uploads/2017/10/service-2-1170x658.jpg",
+    "brand_name": "Education",
+    "title": "Floral",
+    "paragrap": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ips. ",
+    "price": "$450",
+    "detel": "6 Hours Up to 20 Persons Decoration Catering"
+  },
+  {
+    "id": "3",
+    "font_color": "#79C23F",
+    "scath": "Weddings Celebrations",
+    "image": "https://partymaker.ancorathemes.com/wp-content/uploads/2017/10/service-9-1170x658.jpg",
+    "brand_name": "Clothing",
+    "title": "Photo, Video & Audio",
+    "paragrap": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa.",
+    "price": "$900",
+    "detel": "10 Hours Up to 50 Persons Decoration Catering"
+  },
+  {
+    "id": "4",
+    "font_color": "#F87147",
+    "scath": "Corporate Events",
+    "image": "https://partymaker.ancorathemes.com/wp-content/uploads/2017/10/service-8-1170x658.jpg",
+    "brand_name": "Food",
+    "title": "Entertainment",
+    "paragrap": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa.",
+    "price": "$750",
+    "detel": "20 Hours Up to 50 Persons Decoration Catering"
+  },
+  {
+    "id": "5",
+    "font_color": "#79C23F",
+    "scath": "Weddings Celebrations",
+    "image": "https://partymaker.ancorathemes.com/wp-content/uploads/2017/10/service-9-1170x658.jpg",
+    "brand_name": "Clothing",
+    "title": "Photo, Video & Audio",
+    "paragrap": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa.",
+    "price": "$900",
+    "detel": "10 Hours Up to 50 Persons Decoration Catering"
+  },
+  {
+    "id": "6",
+    "font_color": "#0052FF",
+    "scath": "Birthday Parties",
+    "image": "https://partymaker.ancorathemes.com/wp-content/uploads/2017/10/service-1-1170x658.jpg",
+    "brand_name": "Health",
+    "title": "Catering & Decor",
+    "paragrap": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa. ",
+    "price": "$150",
+    "detel": "4 Hours Up to 10 Persons Decoration Catering"
+  }
+]
